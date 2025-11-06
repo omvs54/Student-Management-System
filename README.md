@@ -54,4 +54,9 @@ python manage.py runserver
 3️⃣ Open in browser:
 http://127.0.0.1:8000/
 
+👨‍💻 Author
+
+Om Satarkar
+B.E. Computer Engineering | GSMCOE, Pune
+
 
